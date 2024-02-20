@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 2 - Tristan John Sagucio</string>
+    <string name="neom">Neom, Saudi Arabia (2022)</string>
+    <string name="neom_description">Amazing Desert</string>
+    <string name="cake">Tyler Nix</string>
+    <string name="cake_description">Amazing pancake </string>
+    <string name="university">Shane Rounce</string>
+    <string name="university_description">Sheffield University Arts Tower.</string>
+</resources>
